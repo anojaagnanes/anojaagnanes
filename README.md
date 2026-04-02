@@ -11,15 +11,7 @@ Software Engineer @ Virtusa<br>Experienced in Java, Spring Boot, React & Microse
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=anojaagnanes&theme=dark)
-
 ![Streak](https://streak-stats.demolab.com/?user=anojaagnanes&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anojaagnanes&theme=dark&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=anojaagnanes&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
